@@ -20,6 +20,69 @@
 			remoteGlobalIDString = C0E2C9CA1B02432100CAFA45;
 			remoteInfo = CocosLearn07_Founctions;
 		};
+		C0E2C9F71B0248C700CAFA45 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C0E2C9F31B0248C600CAFA45 /* CocosLearn09_overload.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = C0E2C9E91B0248C600CAFA45;
+			remoteInfo = CocosLearn09_overload;
+		};
+		C0E2CA101B024B2000CAFA45 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C0E2CA0C1B024B1F00CAFA45 /* CocosLearn10_Operator.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = C0E2CA021B024B1F00CAFA45;
+			remoteInfo = CocosLearn10_Operator;
+		};
+		C0E2CA291B024EAE00CAFA45 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C0E2CA251B024EAD00CAFA45 /* CocosLearn11_seudoFounction.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = C0E2CA1B1B024EAD00CAFA45;
+			remoteInfo = CocosLearn11_seudoFounction;
+		};
+		C0E2CA421B024FC300CAFA45 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C0E2CA3E1B024FC200CAFA45 /* C ocosLearn12_FounctionPoint.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = C0E2CA341B024FC200CAFA45;
+			remoteInfo = "C ocosLearn12_FounctionPoint";
+		};
+		C0E2CA5B1B0255CF00CAFA45 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C0E2CA571B0255CE00CAFA45 /* CocosLearn13_Ref.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = C0E2CA4D1B0255CE00CAFA45;
+			remoteInfo = CocosLearn13_Ref;
+		};
+		C0E2CA741B0257FC00CAFA45 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C0E2CA701B0257FC00CAFA45 /* CocosLearn14_FriendClass.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = C0E2CA661B0257FC00CAFA45;
+			remoteInfo = CocosLearn14_FriendClass;
+		};
+		C0E2CA8D1B02597600CAFA45 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C0E2CA891B02597600CAFA45 /* CocosLearn15_containers.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = C0E2CA7F1B02597600CAFA45;
+			remoteInfo = CocosLearn15_containers;
+		};
+		C0E2CAA61B025D2800CAFA45 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C0E2CAA21B025D2700CAFA45 /* CocosLearn16_String.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = C0E2CA981B025D2700CAFA45;
+			remoteInfo = CocosLearn16_String;
+		};
+		C0E2CABF1B025F4B00CAFA45 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C0E2CABB1B025F4A00CAFA45 /* CocosLean17_filesys.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = C0E2CAB11B025F4A00CAFA45;
+			remoteInfo = CocosLean17_filesys;
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -42,6 +105,15 @@
 		C0D3D2961B020E49009534C1 /* Person.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Person.cpp; sourceTree = "<group>"; };
 		C0D3D2971B020E49009534C1 /* Person.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
 		C0E2C9D41B02432100CAFA45 /* CocosLearn07_Founctions.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = CocosLearn07_Founctions.xcodeproj; path = ../CocosLearn07_Founctions/CocosLearn07_Founctions.xcodeproj; sourceTree = "<group>"; };
+		C0E2C9F31B0248C600CAFA45 /* CocosLearn09_overload.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = CocosLearn09_overload.xcodeproj; path = ../CocosLearn09_overload/CocosLearn09_overload.xcodeproj; sourceTree = "<group>"; };
+		C0E2CA0C1B024B1F00CAFA45 /* CocosLearn10_Operator.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = CocosLearn10_Operator.xcodeproj; path = ../CocosLearn10_Operator/CocosLearn10_Operator.xcodeproj; sourceTree = "<group>"; };
+		C0E2CA251B024EAD00CAFA45 /* CocosLearn11_seudoFounction.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = CocosLearn11_seudoFounction.xcodeproj; path = ../CocosLearn11_seudoFounction/CocosLearn11_seudoFounction.xcodeproj; sourceTree = "<group>"; };
+		C0E2CA3E1B024FC200CAFA45 /* C ocosLearn12_FounctionPoint.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = "C ocosLearn12_FounctionPoint.xcodeproj"; path = "../C ocosLearn12_FounctionPoint/C ocosLearn12_FounctionPoint.xcodeproj"; sourceTree = "<group>"; };
+		C0E2CA571B0255CE00CAFA45 /* CocosLearn13_Ref.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = CocosLearn13_Ref.xcodeproj; path = ../CocosLearn13_Ref/CocosLearn13_Ref.xcodeproj; sourceTree = "<group>"; };
+		C0E2CA701B0257FC00CAFA45 /* CocosLearn14_FriendClass.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = CocosLearn14_FriendClass.xcodeproj; path = ../CocosLearn14_FriendClass/CocosLearn14_FriendClass.xcodeproj; sourceTree = "<group>"; };
+		C0E2CA891B02597600CAFA45 /* CocosLearn15_containers.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = CocosLearn15_containers.xcodeproj; path = ../CocosLearn15_containers/CocosLearn15_containers.xcodeproj; sourceTree = "<group>"; };
+		C0E2CAA21B025D2700CAFA45 /* CocosLearn16_String.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = CocosLearn16_String.xcodeproj; path = ../CocosLearn16_String/CocosLearn16_String.xcodeproj; sourceTree = "<group>"; };
+		C0E2CABB1B025F4A00CAFA45 /* CocosLean17_filesys.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = CocosLean17_filesys.xcodeproj; path = ../CocosLean17_filesys/CocosLean17_filesys.xcodeproj; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +130,15 @@
 		C0D3D2811B020E38009534C1 = {
 			isa = PBXGroup;
 			children = (
+				C0E2CABB1B025F4A00CAFA45 /* CocosLean17_filesys.xcodeproj */,
+				C0E2CAA21B025D2700CAFA45 /* CocosLearn16_String.xcodeproj */,
+				C0E2CA891B02597600CAFA45 /* CocosLearn15_containers.xcodeproj */,
+				C0E2CA701B0257FC00CAFA45 /* CocosLearn14_FriendClass.xcodeproj */,
+				C0E2CA571B0255CE00CAFA45 /* CocosLearn13_Ref.xcodeproj */,
+				C0E2CA3E1B024FC200CAFA45 /* C ocosLearn12_FounctionPoint.xcodeproj */,
+				C0E2CA251B024EAD00CAFA45 /* CocosLearn11_seudoFounction.xcodeproj */,
+				C0E2CA0C1B024B1F00CAFA45 /* CocosLearn10_Operator.xcodeproj */,
+				C0E2C9F31B0248C600CAFA45 /* CocosLearn09_overload.xcodeproj */,
 				C0E2C9D41B02432100CAFA45 /* CocosLearn07_Founctions.xcodeproj */,
 				C0D3D28C1B020E38009534C1 /* CocosLearn06_superMethod */,
 				C0D3D28B1B020E38009534C1 /* Products */,
@@ -88,6 +169,78 @@
 			isa = PBXGroup;
 			children = (
 				C0E2C9D91B02432200CAFA45 /* CocosLearn07_Founctions */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C0E2C9F41B0248C600CAFA45 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C0E2C9F81B0248C700CAFA45 /* CocosLearn09_overload */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C0E2CA0D1B024B1F00CAFA45 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C0E2CA111B024B2000CAFA45 /* CocosLearn10_Operator */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C0E2CA261B024EAD00CAFA45 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C0E2CA2A1B024EAE00CAFA45 /* CocosLearn11_seudoFounction */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C0E2CA3F1B024FC200CAFA45 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C0E2CA431B024FC300CAFA45 /* C ocosLearn12_FounctionPoint */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C0E2CA581B0255CE00CAFA45 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C0E2CA5C1B0255CF00CAFA45 /* CocosLearn13_Ref */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C0E2CA711B0257FC00CAFA45 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C0E2CA751B0257FC00CAFA45 /* CocosLearn14_FriendClass */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C0E2CA8A1B02597600CAFA45 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C0E2CA8E1B02597600CAFA45 /* CocosLearn15_containers */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C0E2CAA31B025D2700CAFA45 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C0E2CAA71B025D2800CAFA45 /* CocosLearn16_String */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C0E2CABC1B025F4A00CAFA45 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C0E2CAC01B025F4B00CAFA45 /* CocosLean17_filesys */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -138,8 +291,44 @@
 			projectDirPath = "";
 			projectReferences = (
 				{
+					ProductGroup = C0E2CA3F1B024FC200CAFA45 /* Products */;
+					ProjectRef = C0E2CA3E1B024FC200CAFA45 /* C ocosLearn12_FounctionPoint.xcodeproj */;
+				},
+				{
+					ProductGroup = C0E2CABC1B025F4A00CAFA45 /* Products */;
+					ProjectRef = C0E2CABB1B025F4A00CAFA45 /* CocosLean17_filesys.xcodeproj */;
+				},
+				{
 					ProductGroup = C0E2C9D51B02432100CAFA45 /* Products */;
 					ProjectRef = C0E2C9D41B02432100CAFA45 /* CocosLearn07_Founctions.xcodeproj */;
+				},
+				{
+					ProductGroup = C0E2C9F41B0248C600CAFA45 /* Products */;
+					ProjectRef = C0E2C9F31B0248C600CAFA45 /* CocosLearn09_overload.xcodeproj */;
+				},
+				{
+					ProductGroup = C0E2CA0D1B024B1F00CAFA45 /* Products */;
+					ProjectRef = C0E2CA0C1B024B1F00CAFA45 /* CocosLearn10_Operator.xcodeproj */;
+				},
+				{
+					ProductGroup = C0E2CA261B024EAD00CAFA45 /* Products */;
+					ProjectRef = C0E2CA251B024EAD00CAFA45 /* CocosLearn11_seudoFounction.xcodeproj */;
+				},
+				{
+					ProductGroup = C0E2CA581B0255CE00CAFA45 /* Products */;
+					ProjectRef = C0E2CA571B0255CE00CAFA45 /* CocosLearn13_Ref.xcodeproj */;
+				},
+				{
+					ProductGroup = C0E2CA711B0257FC00CAFA45 /* Products */;
+					ProjectRef = C0E2CA701B0257FC00CAFA45 /* CocosLearn14_FriendClass.xcodeproj */;
+				},
+				{
+					ProductGroup = C0E2CA8A1B02597600CAFA45 /* Products */;
+					ProjectRef = C0E2CA891B02597600CAFA45 /* CocosLearn15_containers.xcodeproj */;
+				},
+				{
+					ProductGroup = C0E2CAA31B025D2700CAFA45 /* Products */;
+					ProjectRef = C0E2CAA21B025D2700CAFA45 /* CocosLearn16_String.xcodeproj */;
 				},
 			);
 			projectRoot = "";
@@ -155,6 +344,69 @@
 			fileType = "compiled.mach-o.executable";
 			path = CocosLearn07_Founctions;
 			remoteRef = C0E2C9D81B02432200CAFA45 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		C0E2C9F81B0248C700CAFA45 /* CocosLearn09_overload */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = CocosLearn09_overload;
+			remoteRef = C0E2C9F71B0248C700CAFA45 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		C0E2CA111B024B2000CAFA45 /* CocosLearn10_Operator */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = CocosLearn10_Operator;
+			remoteRef = C0E2CA101B024B2000CAFA45 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		C0E2CA2A1B024EAE00CAFA45 /* CocosLearn11_seudoFounction */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = CocosLearn11_seudoFounction;
+			remoteRef = C0E2CA291B024EAE00CAFA45 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		C0E2CA431B024FC300CAFA45 /* C ocosLearn12_FounctionPoint */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = "C ocosLearn12_FounctionPoint";
+			remoteRef = C0E2CA421B024FC300CAFA45 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		C0E2CA5C1B0255CF00CAFA45 /* CocosLearn13_Ref */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = CocosLearn13_Ref;
+			remoteRef = C0E2CA5B1B0255CF00CAFA45 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		C0E2CA751B0257FC00CAFA45 /* CocosLearn14_FriendClass */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = CocosLearn14_FriendClass;
+			remoteRef = C0E2CA741B0257FC00CAFA45 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		C0E2CA8E1B02597600CAFA45 /* CocosLearn15_containers */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = CocosLearn15_containers;
+			remoteRef = C0E2CA8D1B02597600CAFA45 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		C0E2CAA71B025D2800CAFA45 /* CocosLearn16_String */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = CocosLearn16_String;
+			remoteRef = C0E2CAA61B025D2800CAFA45 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		C0E2CAC01B025F4B00CAFA45 /* CocosLean17_filesys */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = CocosLean17_filesys;
+			remoteRef = C0E2CABF1B025F4B00CAFA45 /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
 /* End PBXReferenceProxy section */
