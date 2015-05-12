@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:../CocosLearn03_Classes/CocosLearn03_Classes.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../CocosLearn02_NS/CocosLearn02_NS.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "self:CocosLearn01_CPP.xcodeproj">
    </FileRef>
 </Workspace>
