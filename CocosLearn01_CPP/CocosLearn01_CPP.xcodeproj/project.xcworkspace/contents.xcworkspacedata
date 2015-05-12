@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:../CocosLearn04_Method/CocosLearn04_Method.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:../CocosLearn03_Classes/CocosLearn03_Classes.xcodeproj">
    </FileRef>
    <FileRef
