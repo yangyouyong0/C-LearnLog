@@ -5,20 +5,20 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>6B71C7F7-47A9-421E-B646-66D09D39B667</string>
+	<string>151BEFA2-6016-4F3B-AF00-57BAA2CE95AC</string>
 	<key>IDESourceControlProjectName</key>
-	<string>CocosLearn01_CPP</string>
+	<string>CocosLearn06_superMethod</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>6D26969E6433FC147891DE467A55E6E1A5730BF7</key>
 		<string>https://github.com/yangyouyong0/C-LearnLog.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>CocosLearn01_CPP/CocosLearn01_CPP.xcodeproj</string>
+	<string>CocosLearn01_CPP/CocosLearn06_superMethod/CocosLearn06_superMethod.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>6D26969E6433FC147891DE467A55E6E1A5730BF7</key>
-		<string>../../..</string>
+		<string>../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/yangyouyong0/C-LearnLog.git</string>

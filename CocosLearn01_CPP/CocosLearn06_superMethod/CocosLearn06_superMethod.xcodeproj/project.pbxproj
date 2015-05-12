@@ -1,0 +1,291 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		C0D3D28E1B020E38009534C1 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C0D3D28D1B020E38009534C1 /* main.cpp */; };
+		C0D3D2981B020E49009534C1 /* Man.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C0D3D2941B020E49009534C1 /* Man.cpp */; };
+		C0D3D2991B020E49009534C1 /* Person.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C0D3D2961B020E49009534C1 /* Person.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		C0E2C9D81B02432200CAFA45 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C0E2C9D41B02432100CAFA45 /* CocosLearn07_Founctions.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = C0E2C9CA1B02432100CAFA45;
+			remoteInfo = CocosLearn07_Founctions;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		C0D3D2881B020E38009534C1 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		C0D3D28A1B020E38009534C1 /* CocosLearn06_superMethod */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CocosLearn06_superMethod; sourceTree = BUILT_PRODUCTS_DIR; };
+		C0D3D28D1B020E38009534C1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		C0D3D2941B020E49009534C1 /* Man.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Man.cpp; sourceTree = "<group>"; };
+		C0D3D2951B020E49009534C1 /* Man.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Man.h; sourceTree = "<group>"; };
+		C0D3D2961B020E49009534C1 /* Person.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Person.cpp; sourceTree = "<group>"; };
+		C0D3D2971B020E49009534C1 /* Person.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
+		C0E2C9D41B02432100CAFA45 /* CocosLearn07_Founctions.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = CocosLearn07_Founctions.xcodeproj; path = ../CocosLearn07_Founctions/CocosLearn07_Founctions.xcodeproj; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C0D3D2871B020E38009534C1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		C0D3D2811B020E38009534C1 = {
+			isa = PBXGroup;
+			children = (
+				C0E2C9D41B02432100CAFA45 /* CocosLearn07_Founctions.xcodeproj */,
+				C0D3D28C1B020E38009534C1 /* CocosLearn06_superMethod */,
+				C0D3D28B1B020E38009534C1 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C0D3D28B1B020E38009534C1 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C0D3D28A1B020E38009534C1 /* CocosLearn06_superMethod */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C0D3D28C1B020E38009534C1 /* CocosLearn06_superMethod */ = {
+			isa = PBXGroup;
+			children = (
+				C0D3D28D1B020E38009534C1 /* main.cpp */,
+				C0D3D2941B020E49009534C1 /* Man.cpp */,
+				C0D3D2951B020E49009534C1 /* Man.h */,
+				C0D3D2961B020E49009534C1 /* Person.cpp */,
+				C0D3D2971B020E49009534C1 /* Person.h */,
+			);
+			path = CocosLearn06_superMethod;
+			sourceTree = "<group>";
+		};
+		C0E2C9D51B02432100CAFA45 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C0E2C9D91B02432200CAFA45 /* CocosLearn07_Founctions */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C0D3D2891B020E38009534C1 /* CocosLearn06_superMethod */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C0D3D2911B020E38009534C1 /* Build configuration list for PBXNativeTarget "CocosLearn06_superMethod" */;
+			buildPhases = (
+				C0D3D2861B020E38009534C1 /* Sources */,
+				C0D3D2871B020E38009534C1 /* Frameworks */,
+				C0D3D2881B020E38009534C1 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CocosLearn06_superMethod;
+			productName = CocosLearn06_superMethod;
+			productReference = C0D3D28A1B020E38009534C1 /* CocosLearn06_superMethod */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C0D3D2821B020E38009534C1 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0630;
+				ORGANIZATIONNAME = yangyouyong;
+				TargetAttributes = {
+					C0D3D2891B020E38009534C1 = {
+						CreatedOnToolsVersion = 6.3.1;
+					};
+				};
+			};
+			buildConfigurationList = C0D3D2851B020E38009534C1 /* Build configuration list for PBXProject "CocosLearn06_superMethod" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = C0D3D2811B020E38009534C1;
+			productRefGroup = C0D3D28B1B020E38009534C1 /* Products */;
+			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = C0E2C9D51B02432100CAFA45 /* Products */;
+					ProjectRef = C0E2C9D41B02432100CAFA45 /* CocosLearn07_Founctions.xcodeproj */;
+				},
+			);
+			projectRoot = "";
+			targets = (
+				C0D3D2891B020E38009534C1 /* CocosLearn06_superMethod */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		C0E2C9D91B02432200CAFA45 /* CocosLearn07_Founctions */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = CocosLearn07_Founctions;
+			remoteRef = C0E2C9D81B02432200CAFA45 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C0D3D2861B020E38009534C1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C0D3D2981B020E49009534C1 /* Man.cpp in Sources */,
+				C0D3D2991B020E49009534C1 /* Person.cpp in Sources */,
+				C0D3D28E1B020E38009534C1 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		C0D3D28F1B020E38009534C1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		C0D3D2901B020E38009534C1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		C0D3D2921B020E38009534C1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		C0D3D2931B020E38009534C1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C0D3D2851B020E38009534C1 /* Build configuration list for PBXProject "CocosLearn06_superMethod" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C0D3D28F1B020E38009534C1 /* Debug */,
+				C0D3D2901B020E38009534C1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C0D3D2911B020E38009534C1 /* Build configuration list for PBXNativeTarget "CocosLearn06_superMethod" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C0D3D2921B020E38009534C1 /* Debug */,
+				C0D3D2931B020E38009534C1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C0D3D2821B020E38009534C1 /* Project object */;
+}
